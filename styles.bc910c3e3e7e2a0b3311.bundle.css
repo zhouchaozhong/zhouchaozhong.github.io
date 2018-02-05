@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* You can add global styles to this file, and also import other style files */
+/* 共用css */*{margin:0;padding:0}body{font:14px Microsoft YaHei,tahoma,arial,Hiragino Sans GB,\\5b8b\4f53,sans-serif;background:url(top.81418f4692b7658dcdb8.jpg) no-repeat top #075498;color:#fff}img{border:0;display:block}li,ul{list-style:none}
+/*默认链接颜色 */a:active,a:hover,a:link,a:visited{text-decoration:none;color:#fff}.clear{clear:both}
+/* header */footer,header{width:1000px;margin:auto;overflow:hidden}header .logo{margin:40px 0}nav{margin-bottom:40px}nav a{color:#fff;padding:15px 30px;-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;-ms-transition:all .5s}nav a:hover{background:#e5b91c;color:#fff;border-radius:50px 0}nav a.nav_current{background:#9acc99;border-radius:0 50px}footer{text-align:center;padding:20px 0}
