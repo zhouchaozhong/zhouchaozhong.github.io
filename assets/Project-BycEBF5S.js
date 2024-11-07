@@ -1,4 +1,4 @@
-import{u as d}from"./common-B4zVUdu9.js";import{d as a,r as c,b as l,c as i,a as e,F as p,f as b,o as n,t as s,_ as j}from"./index-WWSgSjph.js";const u=[{id:1,projectName:"湘雅二医院绩效考核系统",date:"2024.06 - 2024.08",link:"",linkDesc:"",order:1,enable:!0,description:`
+import{u as d}from"./common-B_Brs9zw.js";import{d as a,r as c,b as l,c as i,a as e,F as p,f as b,o as n,t as s,_ as j}from"./index-DJ5cgDDS.js";const u=[{id:1,projectName:"湘雅二医院绩效考核系统",date:"2024.06 - 2024.08",link:"",linkDesc:"",order:1,enable:!0,description:`
             该项目是公司为湘雅二医院内部绩效考核而开发的系统，主要功能包括科室管理，岗位管理，员工管理，绩效标准管理，绩效考核报表，共享知识库等功能。该系统采用SpringBoot开发，
             使用redis做缓存，使用mysql 作为数据库，使用的SpringSecurity开发的权限系统，文件系统采用的是MINIO ，使用VUE框架开发来开发的web管理页面。
         `,jobContent:`

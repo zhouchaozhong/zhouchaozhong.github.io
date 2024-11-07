@@ -1,4 +1,4 @@
-import{u as i}from"./common-B4zVUdu9.js";import{d as r,r as c,b as p,c as e,a as s,F as l,f as _,o as n,t as a,_ as m}from"./index-WWSgSjph.js";const u=[{id:1,companyName:"湖南洋马信息有限责任公司",date:"2022.12 – 2024.10",post:"Java开发",order:1,enable:!0,description:`
+import{u as i}from"./common-B_Brs9zw.js";import{d as r,r as c,b as p,c as e,a as s,F as l,f as _,o as n,t as a,_ as m}from"./index-DJ5cgDDS.js";const u=[{id:1,companyName:"湖南洋马信息有限责任公司",date:"2022.12 – 2024.10",post:"Java开发",order:1,enable:!0,description:`
             主要负责公司Java后端代码的开发以及部分前端功能开发，负责系统的数据库设计和技术选型，公司主要业务是为湖南水运各级机关开发港口监管系统和各级港口内部作业系统的开发，
             在公司主要参与了湖南港口监管系统，洋马OA信息系统，港益管理系统的开发及维护。同时作为软件研发组的开发组长负责协调市场部门的需求对接，以及组内开发，设计，测试任务的分配。
         `},{id:2,companyName:"湖南创智艾泰克科技有限公司",date:"2019.05 – 2022.11",post:"Java开发",order:2,enable:!0,description:`
