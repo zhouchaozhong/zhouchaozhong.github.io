@@ -1,1 +1,0 @@
-import{_ as n,c as s,a as e,o as t}from"./index-BxMY6pVt.js";const a={},c={class:"not-found"};function r(d,o){return t(),s("div",c,o[0]||(o[0]=[e("div",{class:"container"},[e("h1",null,"404"),e("h3",null,"你找的页面好像不见了！")],-1)]))}const l=n(a,[["render",r],["__scopeId","data-v-e9ef4937"]]);export{l as default};
