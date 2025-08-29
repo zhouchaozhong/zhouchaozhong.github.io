@@ -1,0 +1,1 @@
+import{d as o,r as t,S as s,c as a,a as n,t as c,o as r,_}from"./index-BYKa-PQn.js";const i={class:"intro"},d=o({__name:"Home",setup(p){const e=t(s);return(l,m)=>(r(),a("div",i,[n("p",null,c(e.value.intro),1)]))}}),f=_(d,[["__scopeId","data-v-5c30ed07"]]);export{f as default};

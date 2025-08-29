@@ -1,0 +1,1 @@
+import{_ as s,c as t,a as e,o as a}from"./index-BYKa-PQn.js";const n={},c={class:"not-found"};function r(d,o){return a(),t("div",c,[...o[0]||(o[0]=[e("div",{class:"container"},[e("h1",null,"404")],-1)])])}const f=s(n,[["render",r],["__scopeId","data-v-fa25a118"]]);export{f as default};
