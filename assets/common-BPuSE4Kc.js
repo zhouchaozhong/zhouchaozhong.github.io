@@ -1,1 +1,0 @@
-import{u,g as r}from"./index-DPtgW9mR.js";const c=()=>{const t=u(),e=t.currentRoute.value.name,o=t.currentRoute.value.path,a=t.currentRoute.value.fullPath;r().updateNavigation({name:typeof e=="string"?e:"default",path:o,fullPath:a})};export{c as u};

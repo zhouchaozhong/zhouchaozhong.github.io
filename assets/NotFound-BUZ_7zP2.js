@@ -1,1 +1,0 @@
-import{_ as n,c as s,a as o,o as t}from"./index-DPtgW9mR.js";const a={},c={class:"not-found"};function r(d,e){return t(),s("div",c,e[0]||(e[0]=[o("div",{class:"container"},[o("h1",null,"404"),o("h3",null,"你找的页面好像不见了！")],-1)]))}const l=n(a,[["render",r],["__scopeId","data-v-26460a9f"]]);export{l as default};
